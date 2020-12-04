@@ -2,7 +2,4 @@
 
 A torrent downloader by Go.
 
-
-Currently in developing.
-
-Firstly, basic functions.
+Learning from https://github.com/veggiedefender/torrent-client
